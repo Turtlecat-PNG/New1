@@ -1,3 +1,19 @@
 body {
-background-color: rosa; 
+background-color: pink; 
+}
+
+header {
+height: 50px;
+background-color: red; 
+display: flex;
+justify-content: space-between; 
+}
+
+header ul {
+display: flex;
+list-style: none;
+}
+
+header li {
+margin-right: 25px;
 }
